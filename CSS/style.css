@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navMenu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: blue;
+    
+}
+
+.hotLinks {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    color: white;
+}
